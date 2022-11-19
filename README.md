@@ -14,7 +14,7 @@ Linguagem Java - IDE: Apache NetBeans 15
 
 Linguagem MySQL - IDE: MySQL Workbench 8.0 CE
 
-Mockups das telas feito através do Site e Aplicativo Figma
+Mockups das telas feito através do Site e Aplicativo Figma (Acessivel através do Link: https://www.figma.com/file/haYt5vHtM6oArf2coMI19q/a?node-id=0%3A1)
 
 Servidor Web Local usando MySQL e Apache através do XAMPP Control Panel
 
